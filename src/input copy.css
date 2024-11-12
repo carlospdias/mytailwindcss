@@ -11,13 +11,13 @@
     @apply bg-slate-900 text-white p-2 float-start;
   }
   .application-name{
-    @apply text-center text-lg font-extrabold;
+    @apply text-center text-lg font-bold;
   }
   .application-description{
     @apply text-pretty text-center font-semibold;
   }
   .btn-logout{
-    @apply bg-yellow-500 text-white p-2 float-end font-extrabold;
+    @apply bg-yellow-500 text-white p-2 float-end;
   }
   .main-nav{
     @apply bg-gray-800 flex items-center justify-between;
